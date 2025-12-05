@@ -2,8 +2,7 @@
 
 Members: Asis, Roa, Muanag
 
-———————————————————————
-v2.0.0 — Project Renewed: Study Tracker
+#v2.0.0 — Project Renewed: Study Tracker
 Date: December 5, 2025
 Added / Changed:
 - Project idea renewed from calculator to Study Tracker.
@@ -14,8 +13,7 @@ Added / Changed:
 - Menu-driven interface implemented for easier navigation.
 - Basic input validation added to prevent invalid entries.
 
-———————————————————————
-v1.1.0 — Final Version with Menu, Validation, and Exit
+#v1.1.0 — Final Version with Menu, Validation, and Exit
 Date: August 15, 2025
 Added:
 - User sees a menu with five options: Add, Subtract, Multiply, Divide, Exit.
@@ -25,16 +23,14 @@ Added:
 - User sees the result of their chosen calculation.
 - User can exit the program and see a thank-you message.
 
-———————————————————————
-v1.0.1 — Basic Addition Only
+#v1.0.1 — Basic Addition Only
 Date: August 15, 2025
 Added:
 - User sees a menu with four options: Add, Subtract, Multiply, Divide.
 - User chooses an operation by entering a number from 1 to 4.
 - User sees the result of their chosen calculation.
 
-———————————————————————
-v1.0.0 — Basic Addition Only
+#v1.0.0 — Basic Addition Only
 Date: August 15, 2025
 Added:
 - User enters two numbers.
