@@ -55,7 +55,7 @@ Outputs: The program prints formatted task lists, status updates, and confirmati
 - 2 - View Tasks
 - 3 - Mark Task as Done
 - 4 - Exit
-- Choose: 1
+- User chose: 1
 
 - --- ADD TASK ---
 - Task name: Homework 3
