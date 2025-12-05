@@ -57,6 +57,7 @@ Outputs: The program prints formatted task lists, status updates, and confirmati
 - 4 - Exit
 - User chose: 1
 
+-OUPUT OF INPUT 1:
 - --- ADD TASK ---
 - Task name: Homework 3
 - Subject: Math
