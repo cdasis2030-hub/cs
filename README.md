@@ -57,11 +57,11 @@ Outputs: The program prints formatted task lists, status updates, and confirmati
 - 4 - Exit
 - Choose: 1
 
---- ADD TASK ---
-Task name: Homework 3
-Subject: Math
-Deadline: Friday
-Task added!
+- --- ADD TASK ---
+- Task name: Homework 3
+- Subject: Math
+- Deadline: Friday
+- Task added!
 
 # Contributors
 Roa, Asis, Muanag 
