@@ -1,17 +1,28 @@
 # Change Log
 
+#v2.2.0
+Date: February 15, 2026 
+• Ability to delete a task from the list
+
+#v2.1.0
+Date: February 14, 2026
+• Updated README with methodology and explanations
+• Added technology used
+• Added ethics reflection
+• Improved documentation
+
 Members: Asis, Roa, Muanag
 
 #v2.0.0 — Project Renewed: Study Tracker
 Date: December 5, 2025
 Added / Changed:
 - Project idea renewed from calculator to Study Tracker.
-- Introduced task management system for students.
-- Users can add tasks with subject and deadline.
+- Introduced a task management system for students.
+- Users can add tasks with a subject and deadline.
 - Users can view all tasks in a readable list.
 - Users can mark tasks as completed (Done/Not Done).
 - Menu-driven interface implemented for easier navigation.
-- Basic input validation added to prevent invalid entries.
+- Basic input validation has been added to prevent invalid entries.
 
 #v1.1.0 — Final Version with Menu, Validation, and Exit
 Date: August 15, 2025
