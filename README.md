@@ -68,6 +68,11 @@ Outputs: The program prints formatted task lists, status updates, and confirmati
 
 # APA CITATION
 - GeeksforGeeks. (2026). Python list tutorial. https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+- OpenAI. (2026). Chatgpt. https://chatgpt.com
 
+# NOTES
+- GeeksforGeeks --> Helped us with list operations, loops, and input ideas
+- ChatGPT --> Helped us with understanding the instructions, gathering information, checking the grammars of our README, and giving us ideas to implement for our next feature.
+  
 # Contributors
 Roa, Asis, Muanag 
