@@ -2,6 +2,17 @@
 
 Members: Asis, Roa, Muanag
 
+#v2.2.0
+Date: February 15, 2026 
+• Ability to delete a task from the list
+
+#v2.1.0
+Date: February 14, 2026
+• Updated README with methodology and explanations
+• Added technology used
+• Added ethics reflection
+• Improved documentation
+
 #v2.0.0 — Project Renewed: Study Tracker
 Date: December 5, 2025
 Added / Changed:
