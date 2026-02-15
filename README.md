@@ -22,6 +22,7 @@ The main objectives of Study Tracker are to:
 - Mark tasks as completed.
 - Use basic Python lists to store task information.
 - Display a clean, readable output in the terminal.
+- Ability to delete a task from the list
 
 # Planned Inputs and Outputs
 Inputs:
