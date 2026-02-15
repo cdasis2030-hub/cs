@@ -66,5 +66,8 @@ Outputs: The program prints formatted task lists, status updates, and confirmati
 - Deadline: Friday
 - Task added!
 
+# APA CITATION
+- GeeksforGeeks. (2026). Python list tutorial. https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+
 # Contributors
 Roa, Asis, Muanag 
