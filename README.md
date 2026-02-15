@@ -55,7 +55,8 @@ Outputs: The program prints formatted task lists, status updates, and confirmati
 - 1 - Add Task
 - 2 - View Tasks
 - 3 - Mark Task as Done
-- 4 - Exit
+- 4 - Delete
+- 5 - Exit
 - User chose: 1
 
 -OUPUT OF INPUT 1:
