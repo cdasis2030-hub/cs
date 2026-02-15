@@ -67,24 +67,24 @@ Outputs: The program prints formatted task lists, status updates, and confirmati
 - Task added!
 
 # METHODOLOGY
-- This repository has our Study Tracker project. All code, README, CHANGELOG, Project proposal are here. README and CHANGELOG are also here to track the updates.
+This repository has our Study Tracker project. All code, README, CHANGELOG, Project proposal are here. README and CHANGELOG are also here to track the updates.
 
-- The core features are:
+The core features are:
 - Add task (name, subject, deadline)
 - View task
 - Mark task as done
 - Delete task
 - Then loop
 
-- Technologies used:
+Technologies used:
 - 1. Python (through onlineGDB) - easy and beginner friendly
   2. Github - free and it tracks what we committed and what we added new
  
-- Design Decisions:
+Design Decisions:
 - 1. Parallel list used for simplicity
   2. Tasks are temporary and not saved in any memory
  
-- Ethics:
+Ethics:
 - 1. Users privacy are RESPECTED
   2. Output is CLEAR and READABLE
 
